@@ -34,6 +34,7 @@ The code for producing the plots is included in the Report.Rmd and Report.R file
 Other supplementary files include:
 
 * mybibfile.bib (the references)
+* DataSplit.PNG (png-file describing the data resampling methodology)
 * Report.hmtl (report in html-format)
 * classificationmetrics1.csv (model evaluation metrics saved in csv-format to save time when knitting the report) 
 * classificationmetrics1.csv (model evaluation metrics saved in csv-format to save time when knitting the report)
