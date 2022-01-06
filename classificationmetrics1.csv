@@ -1,0 +1,7 @@
+".metric",".estimator","mean","n","std_err",".config","model","complexity"
+"accuracy","binary",0.97781040891306,10,0.000528775760844945,"Preprocessor1_Model1","Logistic","all vars"
+"roc_auc","binary",0.952557664119076,10,0.00267551042841665,"Preprocessor1_Model1","Logistic","all vars"
+"accuracy","binary",0.974928416609201,10,0.00041318062683483,"Preprocessor1_Model1","Logistic","simple"
+"roc_auc","binary",0.829693742696864,10,0.00595130626156771,"Preprocessor1_Model1","Logistic","simple"
+"accuracy","binary",0.976910847586315,10,0.000577417801410321,"Preprocessor1_Model1","Logistic","intermediate"
+"roc_auc","binary",0.943821220948431,10,0.00306608414699299,"Preprocessor1_Model1","Logistic","intermediate"
