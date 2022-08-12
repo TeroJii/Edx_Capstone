@@ -57,7 +57,7 @@ theme_set(theme_bw())
 
 ```{r dataset}
 #download modified data, the final dataset
-df <- read.csv(file = "data/final_dataset.csv")
+df <- read.csv(file = "final_dataset.csv")
 
 # One example molecule
 molecule <- ChemmineR::pubchemCidToSDF(as.numeric(df$pubchem[3]))
